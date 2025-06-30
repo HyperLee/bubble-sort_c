@@ -1,0 +1,24 @@
+# Compiled binaries
+bubble_sort
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# IDE files
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Temporary files
+*~
+*.tmp
+*.temp
